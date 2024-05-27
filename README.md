@@ -20,4 +20,4 @@ lua main.lua
 
 ## Authors
 
-- [@mouhamedsylla](https://github.com/mouhamedsylla/live-server)
+- [@mouhamedsylla](https://github.com/mouhamedsylla)
